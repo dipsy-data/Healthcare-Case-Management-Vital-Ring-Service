@@ -3,6 +3,19 @@
 ## Overview
 The **Vital Ring Healthcare Case Management System** integrates data from the Vital Ring device to streamline case management, improve service efficiency, and ensure high-quality healthcare delivery. It organizes patient information, manages service requests, and collects feedback to enhance healthcare operations.
 
+## Languages and Technologies Used
+
+### <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="20" /> **MySQL**
+- Used for database management and querying.
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" /> **Python**
+- For AWS deployment and automation scripts.
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="20" /> **AWS**
+- Used for cloud deployment and scalability.
+
+
+
 
 ## Features
 
